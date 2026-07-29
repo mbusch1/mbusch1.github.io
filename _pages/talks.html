@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% include base_path %}
+
+<!-- TODO(Michael): this is a partial list seeded from your ATNF colloquium and the AAS
+     abstracts on your Google Scholar profile. Add your invited talks, seminars, and any
+     conference presentations that don't have an abstract on Scholar. Copy any file in
+     _talks/ as a starting point — the AAS entries have empty `location:` fields to fill in. -->
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

@@ -1,0 +1,26 @@
+# The order of the links in the header of the website.
+#
+# Changing the order here adjusts the order in the nav bar. Removing a link
+# prevents it from showing in the header, but does not remove the page itself.
+#
+# The CV is NOT listed here on purpose — it appears as a PDF link in the
+# left-hand sidebar instead (see author.cv in _config.yml).
+
+main:
+  - title: "About"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Students"
+    url: /students/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Radio Silence"
+    url: /radio-silence/
