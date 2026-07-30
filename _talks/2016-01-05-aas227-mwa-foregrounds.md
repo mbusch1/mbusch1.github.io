@@ -1,7 +1,7 @@
 ---
 title: "Foreground Characterization for the Murchison Widefield Array Using the Jansky Very Large Array"
 collection: talks
-type: "Conference presentation"
+type: "Conference poster"
 permalink: /talks/2016-01-05-aas227-mwa-foregrounds
 venue: "American Astronomical Society, 227th Meeting"
 date: 2016-01-05

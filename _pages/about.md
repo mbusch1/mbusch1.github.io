@@ -21,12 +21,22 @@ a great deal of that gas lives. I use the ground-state 18 cm lines of the hydrox
 Getting here
 ======
 
-I earned my Ph.D. in Physics from **Johns Hopkins University** in 2022, working with Josh Peek
-and Ronald Allen on a thesis about observing "dark" molecular gas through OH. I then held an
-**NSF Astronomy and Astrophysics Postdoctoral Fellowship** at the **University of California,
-San Diego**, working with Karin Sandstrom, before joining NRAO as a Jansky Fellow in 2025.
+I started in radio astronomy as an undergraduate at **Arizona State University**, where I earned
+B.S. degrees in Physics and Astrophysics in 2016 and wrote an honors thesis with Judd Bowman on
+characterizing extragalactic radio foregrounds for the Murchison Widefield Array. Along the way
+I spent a summer on an NSF international REU in Bochum and Hamburg measuring galactic magnetic
+fields, and another at Michigan with Eric Bell on the stellar halo of M83.
 
-<!-- TODO(Michael): add your undergraduate institution and year if you'd like it listed. -->
+I then went to **Johns Hopkins University** as an NSF Graduate Research Fellow, taking a
+master's with Adam Riess on a sub-2% Cepheid distance to M31 before completing my Ph.D. in
+Physics in 2022 with Josh Peek and Ronald Allen. My thesis, *The Distribution and Physics of
+Dark H<sub>2</sub> in the Outer Galaxy Revealed By OH*, is what set the direction I am still
+following. I held an **NSF Astronomy and Astrophysics Postdoctoral Fellowship** at the
+**University of California, San Diego** with Karin Sandstrom from 2022 to 2025, and joined NRAO
+as a **Jansky Fellow** in 2025.
+
+To date I have led or co-led observing programs totalling more than **2700 hours** of awarded
+time on the GBT, VLA, NOEMA, and Murriyang.
 
 Most of my observing happens on the Green Bank Telescope, the Very Large Array, ALMA, and
 Murriyang (the CSIRO Parkes 64 m telescope). There is more on the individual projects on the

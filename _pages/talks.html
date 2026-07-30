@@ -7,10 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- TODO(Michael): this is a partial list seeded from your ATNF colloquium and the AAS
-     abstracts on your Google Scholar profile. Add your invited talks, seminars, and any
-     conference presentations that don't have an abstract on Scholar. Copy any file in
-     _talks/ as a starting point — the AAS entries have empty `location:` fields to fill in. -->
+<!-- Seeded from the TALKS AND CONFERENCES section of your CV. Entries the CV records as
+     attendance-only (Interstellar Institute 5 and 7, AAS 241, Local Group Astrostatistics)
+     were left out, since there is no talk or poster to list.
+
+     TODO(Michael): the CV gives month-level dates only, so every generated entry uses day 01.
+     That is fine for ordering within a year but the individual dates are approximate. -->
+
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}

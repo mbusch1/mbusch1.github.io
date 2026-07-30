@@ -29,10 +29,7 @@ author:
   location         : "Charlottesville, VA"
   employer         : "NRAO"
   uri              : # URL
-  # TODO(Michael): drop your CV PDF at files/cv.pdf, then uncomment the line below to make
-  # the "Curriculum Vitae" link appear in the sidebar. It's commented out so the site doesn't
-  # ship with a link to a file that isn't there yet.
-  # cv             : "/files/cv.pdf"
+  cv               : "/files/cv.pdf"
   email            : "mpbusch@nrao.edu"
 
   # Academic websites
