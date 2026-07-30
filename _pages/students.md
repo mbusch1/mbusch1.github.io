@@ -30,7 +30,7 @@ Current students
 Project: OH masers in IC 10, using data from the Local Group L-band Survey.
 
 **Justin Mascari** — *Undergraduate, UC San Diego, 2024–present*
-Project: the CO-dark molecular gas content of M33. Co-advised with Karin Sandstrom.
+Project: the CO-dark molecular gas content of M33. Co-advised with Dr. Karin Sandstrom.
 
 Past students
 ======
@@ -45,7 +45,7 @@ Project: the CO-dark molecular gas content of high-latitude clouds.
 Project: upper limits on OH in the outer disk of M33.
 
 **Julianne Tamayo** — *Undergraduate, UC San Diego, 2023–2024*
-Project: the Parkes–Murriyang OH maser monitoring program. Co-advised with Anita Hafner
+Project: the Parkes–Murriyang OH maser monitoring program. Co-advised with Dr. Anita Hafner
 (University of Sydney).
 
 <!-- TODO(Michael): your CV doesn't record where your past students went next, so I left that
@@ -59,5 +59,5 @@ I am certified by [The Carpentries](https://carpentries.org/) to teach data-inte
 through live-coding Python workshops. At UC San Diego I taught these for the **STARTastro**
 program, which supports undergraduate transfer students in building research-ready computational
 skills, along with a shorter scientific Python workshop in the Transfer Student Research Workshop
-Series. Earlier, at Johns Hopkins, I was a teaching assistant for several undergraduate physics
+Series. Earlier, at The Johns Hopkins University, I was a teaching assistant for several physics
 courses, leading lab sections and recitations.

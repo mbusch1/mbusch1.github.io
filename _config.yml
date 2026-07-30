@@ -88,6 +88,8 @@ publication_category:
     title: 'First-Author Papers'
   coauthor:
     title: 'Co-Authored Papers'
+  whitepaper:
+    title: 'White Papers'
   thesis:
     title: 'Thesis'
 

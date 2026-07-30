@@ -22,23 +22,25 @@ Getting here
 ======
 
 I started in radio astronomy as an undergraduate at **Arizona State University**, where I earned
-B.S. degrees in Physics and Astrophysics in 2016 and wrote an honors thesis with Judd Bowman on
-characterizing extragalactic radio foregrounds for the Murchison Widefield Array. Along the way
-I spent a summer on an NSF international REU in Bochum and Hamburg measuring galactic magnetic
-fields, and another at Michigan with Eric Bell on the stellar halo of M83.
+B.S. degrees in Physics and Astrophysics in 2016 and wrote an honors thesis with Dr. Judd Bowman
+on characterizing extragalactic radio foregrounds for the Murchison Widefield Array. Along the
+way I spent a summer on an NSF international REU in Bochum and Hamburg measuring galactic
+magnetic fields, and another at Michigan with Dr. Eric Bell on the stellar halo of M83.
 
-I then went to **Johns Hopkins University** as an NSF Graduate Research Fellow, taking a
-master's with Adam Riess on a sub-2% Cepheid distance to M31 before completing my Ph.D. in
-Physics in 2022 with Josh Peek and Ronald Allen. My thesis, *The Distribution and Physics of
-Dark H<sub>2</sub> in the Outer Galaxy Revealed By OH*, is what set the direction I am still
+I then went to **The Johns Hopkins University** as an **NSF Graduate Research Fellow**, taking a
+master's with Dr. Adam Riess on a sub-2% Cepheid distance to M31 before completing my Ph.D. in
+Physics in 2022 with Dr. Josh Peek and Dr. Ronald Allen. My thesis, *The Distribution and Physics
+of Dark H<sub>2</sub> in the Outer Galaxy Revealed By OH*, is what set the direction I am still
 following. I held an **NSF Astronomy and Astrophysics Postdoctoral Fellowship** at the
-**University of California, San Diego** with Karin Sandstrom from 2022 to 2025, and joined NRAO
-as a **Jansky Fellow** in 2025.
+**University of California, San Diego** with Dr. Karin Sandstrom from 2022 to 2025, and joined
+NRAO as a **Jansky Fellow** in 2025.
 
-Most of my observing happens on the Green Bank Telescope, the Very Large Array, ALMA, and
-Murriyang (the CSIRO Parkes 64 m telescope) — more than **2700 hours** of awarded time since
-2019. The [research page](/research/) covers the individual projects and programs, and the
-papers are on the [publications page](/publications/).
+<!-- Keep "since 2019." on one line. A line that begins with a number followed by a period is a
+     markdown ordered-list marker, which silently swallows the year and breaks the paragraph. -->
+Most of my observing happens on the Green Bank Telescope, the Very Large Array, ALMA,
+and Murriyang (the CSIRO Parkes 64 m telescope) — more than **2700 hours** of awarded
+time since 2019. The [research page](/research/) covers the individual projects and
+programs, and the papers are on the [publications page](/publications/).
 
 Awards and fellowships
 ======
@@ -58,7 +60,7 @@ Service
 I referee for *The Astrophysical Journal*, *Nature*, and the *Journal of Astronomical Telescopes,
 Instruments, and Systems*. I served on the **Hubble Space Telescope** Cycle 33 Telescope
 Allocation Committee, the **FAST** Time Allocation Committee, and the GBT Science Advisory
-Committee for ALPACA. I have been on the scientific organizing committee for several meetings —
+Committee for ALPACA (now defunct). I have been on the scientific organizing committee for several meetings —
 *OH What a Lovely Molecule*, *Contents of the Fermi Bubbles*, and *GBT Surveys of the 21 cm Sky*
 — and I co-organize the NRAO [TUNA Lunch Talks](https://www.cv.nrao.edu/tuna/) seminar series.
 
