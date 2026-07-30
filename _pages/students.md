@@ -17,16 +17,17 @@ you are curious about — a polished CV is not a prerequisite.
      now (open project, funding available, NRAO summer student program deadlines), this is the
      natural place for it. -->
 
+<!-- TODO(Michael): when you have students to list, uncomment the headings and entry blocks
+     below and fill them in. They are commented out rather than filled with examples so the
+     live site never shows placeholder people. Photos are optional — put one in images/ and
+     uncomment the image line.
+
 Current students
 ======
 
-<!-- TODO(Michael): replace the example below with your real students, and delete this comment.
-     Copy the block for each additional student. Photos are optional — if you add one, put it
-     in images/ and uncomment the image line. -->
+![Student name](/images/student-example.jpg){: .align-left width="120px"}
 
-<!-- ![Student name](/images/student-example.jpg){: .align-left width="120px"} -->
-
-**EXAMPLE ENTRY — replace me**
+**Student Name**
 *Undergraduate researcher, 2025–present*
 Project: a one-sentence description of what they are working on, written for a reader outside
 the field.
@@ -34,15 +35,9 @@ the field.
 Past students
 ======
 
-<!-- TODO(Michael): same format, plus where they went next — that last line is the part
-     prospective students actually read. -->
-
-**EXAMPLE ENTRY — replace me**
+**Student Name**
 *Summer student, 2024*
 Project: a one-sentence description of the project.
-Now: where they went next.
+Now: where they went next — the line prospective students actually read.
 
----
-
-*This page is a scaffold — the entries above are placeholders, not real people. Fill them in
-or delete the sections you don't need.*
+-->

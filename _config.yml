@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "michaelBusch.jpg"
   name             : "Michael P. Busch"
-  pronouns         : # TODO(Michael): add if you'd like them shown, e.g. "he/him"
+  pronouns         : "he/him"
   bio              : "Jansky Postdoctoral Fellow"
   location         : "Charlottesville, VA"
   employer         : "NRAO"
@@ -41,7 +41,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=CbPFf0IAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # TODO(Michael): paste your ORCID URL here, e.g. "https://orcid.org/0000-0002-1825-0097" — icon stays hidden until you do
+  orcid            : "https://orcid.org/0000-0003-4961-6511"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -77,7 +77,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "realMikeBusch"   # TODO(Michael): confirm this is still your handle
+  twitter          : "realMikeBusch"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

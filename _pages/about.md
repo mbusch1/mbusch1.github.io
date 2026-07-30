@@ -32,9 +32,6 @@ Most of my observing happens on the Green Bank Telescope, the Very Large Array, 
 Murriyang (the CSIRO Parkes 64 m telescope). There is more on the individual projects on the
 [research page](/research/), and the papers are on the [publications page](/publications/).
 
-<!-- TODO(Michael): Floor's site has a short "Outside of work" section (hiking, volleyball,
-     cycling). If you want one, add it here — it does a lot to make a site feel human. -->
-
 Get in touch
 ======
 

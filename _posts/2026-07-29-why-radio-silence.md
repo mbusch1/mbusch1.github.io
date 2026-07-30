@@ -2,9 +2,14 @@
 title: "Why 'Radio Silence'"
 date: 2026-07-29
 permalink: /posts/2026/07/why-radio-silence/
+published: false
 tags:
   - meta
 ---
+
+<!-- Unpublished: this draft is in Claude's voice, not Michael's. Rewrite it and set
+     published: true (or delete the file) when you want the blog to go live. -->
+
 
 A blog on an academic website is a promise most of us do not keep. You set it up with good
 intentions, write two posts in the first month, and then a proposal deadline arrives and the
