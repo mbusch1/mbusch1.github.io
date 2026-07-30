@@ -60,19 +60,7 @@ Instruments, and Systems*. I served on the **Hubble Space Telescope** Cycle 33 T
 Allocation Committee, the **FAST** Time Allocation Committee, and the GBT Science Advisory
 Committee for ALPACA. I have been on the scientific organizing committee for several meetings —
 *OH What a Lovely Molecule*, *Contents of the Fermi Bubbles*, and *GBT Surveys of the 21 cm Sky*
-— and I co-organize the NRAO Tuna Talk seminar series.
-
-In the press
-======
-
-- "Scientists Accidentally Discover Huge Galactic Structure in Space" — *Newsweek* and
-  *Popular Science*, 2021, on the discovery of a thick disk of dark molecular gas in the outer
-  Galaxy ([Busch et al. 2021](/publications/2021-busch-thick-disk/)).
-- "Alumni Spotlight: Michael Busch" — *ASU SESE News*, 2018, and "ASU Astronomy Grad to See the
-  World — and Stars" — *ASU Now*, 2016.
-
-<!-- TODO(Michael): your CV lists this coverage without URLs, so these are unlinked rather than
-     pointing somewhere approximate. Send the article links and I'll turn them into real links. -->
+— and I co-organize the NRAO [TUNA Lunch Talks](https://www.cv.nrao.edu/tuna/) seminar series.
 
 Get in touch
 ======
