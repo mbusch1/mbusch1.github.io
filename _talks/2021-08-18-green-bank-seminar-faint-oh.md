@@ -6,6 +6,7 @@ permalink: /talks/2021-08-18-green-bank-seminar-faint-oh
 venue: Green Bank Community Science Seminar
 date: 2021-08-18
 location: Green Bank, WV, USA (virtual)
+recording: 'https://www.youtube.com/watch?v=dylLHjULEhQ'
 excerpt: '[▶ Watch the recording on YouTube](https://www.youtube.com/watch?v=dylLHjULEhQ)'
 ---
 

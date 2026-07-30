@@ -6,6 +6,7 @@ permalink: /talks/2026-03-24-nrao-uva-colloquium
 venue: NRAO/UVA Astronomy Colloquium
 date: 2026-03-24
 location: Charlottesville, VA, USA
+recording: 'https://www.youtube.com/watch?v=4xjNcGU0yM8'
 excerpt: '[▶ Watch the recording on YouTube](https://www.youtube.com/watch?v=4xjNcGU0yM8)'
 ---
 

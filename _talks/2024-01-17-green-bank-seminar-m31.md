@@ -6,6 +6,7 @@ permalink: /talks/2024-01-17-green-bank-seminar-m31
 venue: Green Bank Community Science Seminar
 date: 2024-01-17
 location: Green Bank, WV, USA (virtual)
+recording: 'https://www.youtube.com/watch?v=WQJ-04E7kq4'
 excerpt: '[▶ Watch the recording on YouTube](https://www.youtube.com/watch?v=WQJ-04E7kq4)'
 ---
 

@@ -7,17 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Invited talks, colloquia, seminars, and contributed conference presentations. Where a talk was
-recorded and posted publicly, the entry links to the video.</p>
+<p>Talks of mine that were recorded and posted publicly are below. A complete list of my invited
+talks, colloquia, seminars, and contributed conference presentations &mdash; around forty of them
+&mdash; is in my <a href="{{ base_path }}/files/cv.pdf">CV</a>.</p>
 
-<!-- Seeded from the TALKS AND CONFERENCES section of your CV. Entries the CV records as
-     attendance-only (Interstellar Institute 5 and 7, AAS 241, Local Group Astrostatistics)
-     were left out, since there is no talk or poster to list.
+{% comment %}
+  Only entries with a `recording:` field are listed. Other talks stay in _talks/ but are not
+  shown here. Note for future edits: never leave a bare multi-line HTML comment as a talk's whole
+  body. Jekyll's auto-excerpt cuts content at the first blank line, so an unclosed "<!--" reaches
+  markdownify and renders as visible text on this page.
+{% endcomment %}
 
-     TODO(Michael): the CV gives month-level dates only, so every generated entry uses day 01.
-     That is fine for ordering within a year but the individual dates are approximate. -->
-
-
-{% for post in site.talks reversed %}
+{% assign recorded = site.talks | where_exp: "post", "post.recording" | sort: "date" | reverse %}
+{% for post in recorded %}
   {% include archive-single-talk.html %}
 {% endfor %}
