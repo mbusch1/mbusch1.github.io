@@ -16,6 +16,7 @@ Everything you'd normally change is content, not code:
 | Nav bar tabs and their order | `_data/navigation.yml` |
 | About / Research / Students pages | `_pages/about.md`, `research.md`, `students.md` |
 | A new paper | one new file in `_publications/` — copy an existing one |
+| A paper that's accepted but not yet published | add `accepted: true` to its front matter; the page then says "Accepted for publication in …" instead of "Published in …". Remove it once the paper appears, and swap `paperurl` from arXiv to the journal DOI |
 | A new talk | one new file in `_talks/` |
 | A new blog post | one new file in `_posts/`, named `YYYY-MM-DD-slug.md` |
 | Images | `images/` |
