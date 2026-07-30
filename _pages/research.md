@@ -28,10 +28,10 @@ My thesis work used the Green Bank Telescope to survey 18 cm OH emission in the 
 and the Perseus Arm, where the CO-dark fraction should be largest. Two results came out of it.
 First, OH emission is widespread in regions with no detectable CO, and the gas it traces is
 diffuse and cold rather than clumped into recognizable clouds
-([Busch et al. 2019](/publications/2019-busch-perseus-arm/)). Second, this material is not
+([Busch et al. 2019](/publications/2019-busch-perseus-arm)). Second, this material is not
 confined to the thin molecular disk — there is a **thick disk of dark molecular gas** extending
 well off the Galactic plane, which conventional CO-based inventories miss entirely
-([Busch et al. 2021](/publications/2021-busch-thick-disk/)).
+([Busch et al. 2021](/publications/2021-busch-thick-disk)).
 
 Taken together, these say that the molecular reservoir of the Galaxy is both larger and more
 extended than the CO maps imply.
@@ -70,7 +70,7 @@ If OH reveals hidden molecular gas in the Milky Way, it should do the same in ot
 but until recently nobody had detected thermal OH emission outside our own. Using the GBT, we
 reported the **first extragalactic detection of thermal 18 cm OH emission**, toward Andromeda
 (M31), and found it traces an abundant reservoir of CO-faint molecular gas
-([Busch et al. 2024](/publications/2024-busch-m31-oh/)).
+([Busch et al. 2024](/publications/2024-busch-m31-oh)).
 
 This opens the technique up to the Local Group, where I also work on cold gas in
 low-metallicity dwarf galaxies through the **Local Group L-band Survey** (LGLBS) with the VLA
