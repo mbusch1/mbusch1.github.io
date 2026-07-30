@@ -35,12 +35,44 @@ following. I held an **NSF Astronomy and Astrophysics Postdoctoral Fellowship** 
 **University of California, San Diego** with Karin Sandstrom from 2022 to 2025, and joined NRAO
 as a **Jansky Fellow** in 2025.
 
-To date I have led or co-led observing programs totalling more than **2700 hours** of awarded
-time on the GBT, VLA, NOEMA, and Murriyang.
-
 Most of my observing happens on the Green Bank Telescope, the Very Large Array, ALMA, and
-Murriyang (the CSIRO Parkes 64 m telescope). There is more on the individual projects on the
-[research page](/research/), and the papers are on the [publications page](/publications/).
+Murriyang (the CSIRO Parkes 64 m telescope) — more than **2700 hours** of awarded time since
+2019. The [research page](/research/) covers the individual projects and programs, and the
+papers are on the [publications page](/publications/).
+
+Awards and fellowships
+======
+
+- **Jansky Postdoctoral Fellowship**, NRAO (2025–present)
+- **NSF Astronomy and Astrophysics Postdoctoral Fellowship** (2022–2025)
+- **LSSTC Data Science Fellowship**, Cohort 3 (2019–2021)
+- **NSF Graduate Research Fellowship** (2016–2021)
+
+As an undergraduate at ASU I was twice named Astrophysics Undergraduate Student of the Year, held
+a NASA Space Grant Fellowship three times, and received the inaugural Origins Project
+Undergraduate Research Scholarship.
+
+Service
+======
+
+I referee for *The Astrophysical Journal*, *Nature*, and the *Journal of Astronomical Telescopes,
+Instruments, and Systems*. I served on the **Hubble Space Telescope** Cycle 33 Telescope
+Allocation Committee, the **FAST** Time Allocation Committee, and the GBT Science Advisory
+Committee for ALPACA. I have been on the scientific organizing committee for several meetings —
+*OH What a Lovely Molecule*, *Contents of the Fermi Bubbles*, and *GBT Surveys of the 21 cm Sky*
+— and I co-organize the NRAO Tuna Talk seminar series.
+
+In the press
+======
+
+- "Scientists Accidentally Discover Huge Galactic Structure in Space" — *Newsweek* and
+  *Popular Science*, 2021, on the discovery of a thick disk of dark molecular gas in the outer
+  Galaxy ([Busch et al. 2021](/publications/2021-busch-thick-disk/)).
+- "Alumni Spotlight: Michael Busch" — *ASU SESE News*, 2018, and "ASU Astronomy Grad to See the
+  World — and Stars" — *ASU Now*, 2016.
+
+<!-- TODO(Michael): your CV lists this coverage without URLs, so these are unlinked rather than
+     pointing somewhere approximate. Send the article links and I'll turn them into real links. -->
 
 Get in touch
 ======

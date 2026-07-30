@@ -53,9 +53,13 @@ keeps the system temperature low enough that genuinely faint diffuse HI and OH s
 reach. The goal is to map the diffuse molecular interstellar medium over far more sky than
 pointed observations have allowed.
 
-<!-- TODO(Michael): add specifics here — frequency coverage, number of beams, the particular
-     survey or region you're targeting, and any collaborators worth naming. I've deliberately
-     kept this general rather than guessing at numbers. -->
+The first step is a 100-hour Murriyang program (P1385) mapping OH in a high-latitude cloud — a
+region where the CO-dark fraction should be high and the emission faint enough that the survey
+speed of a cooled PAF is what makes the measurement possible at all.
+
+<!-- TODO(Michael): the program and time above come from your CV. Still worth adding: the
+     frequency coverage, the number of beams, which high-latitude cloud, and any collaborators
+     worth naming. I've left those out rather than guess at numbers. -->
 
 Extragalactic OH and the Local Group
 ======
@@ -83,6 +87,33 @@ ISM, and to the **HyGAL** program, which characterizes the Galactic interstellar
 hydrides and other small molecules. These absorption measurements provide the physical
 conditions — temperature, density, abundance — that the emission surveys need in order to be
 converted into masses.
+
+Observing programs
+======
+
+Most of this work depends on getting large amounts of time on single-dish and interferometric
+telescopes, since diffuse emission is faint and the surveys have to be wide. Since 2019 I have
+been awarded **more than 2700 hours** as PI or co-I across the GBT, the VLA, NOEMA, and
+Murriyang. A representative sample:
+
+| Program | Facility | Time |
+|---|---|---|
+| Is the broad 18 cm OH emission "disk" in concordance with Galactic structure? | GBT | 300 h |
+| Deep OH absorption in the Outer Galaxy (co-I) | VLA | 350 h |
+| Probing the structure of the diffuse molecular ISM — mixed or clumped? | GBT | 216 h |
+| A GBT search for the diffuse molecular gas disk in absorption | GBT | 177 h |
+| A survey for OH in the northern molecular ring of M31 | GBT | 176 h |
+| A GBT survey of M33's molecular gas in OH | GBT | 168 h |
+| Turbulent motions, mass content and distribution of dark H<sub>2</sub> in the Outer Galaxy | GBT | 135 h |
+| Extending the GBT M31 molecular ring survey in OH | GBT | 132 h |
+| A follow-up survey for OH in the Milky Way's nuclear wind | GBT | 121 h |
+| Tracing dark molecular gas in the Eos molecular cloud with 18 cm OH | GBT | 100 h |
+| CryoPAF mapping of OH in a high-latitude cloud | Murriyang | 100 h |
+| An ultra-deep search for OH and CH in the diffuse ISM of the Magellanic system | Murriyang | 100 h |
+| Detangling the 3D multi-phase structure of the Perseus cloud with 18 cm OH | GBT | 92.5 h |
+
+Alongside these I contribute to multi-tracer NOEMA and VLA programs on the structure and
+chemistry of diffuse molecular gas near the HI-to-H<sub>2</sub> transition.
 
 ---
 

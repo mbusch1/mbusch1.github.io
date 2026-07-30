@@ -57,11 +57,15 @@
   {% if page.header.image %}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+  {% elsif site.og_image %}
+    {% comment %}
+      Local change: site.og_image is a 1200x630 card, so request the large card rather than the
+      small square one upstream defaults to here.
+    {% endcomment %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
   {% else %}
     <meta name="twitter:card" content="summary">
-    {% if site.og_image %}
-      <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
-    {% endif %}
   {% endif %}
 
   {% if seo_author_twitter %}
@@ -143,5 +147,12 @@
   <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif site.og_image %}
+  {% comment %}
+    Local change to the upstream theme: fall back to site.og_image so every page advertises a
+    social preview image. Without this, og:image is only emitted on pages that set
+    header.image — which none of ours do, since that also renders a banner on the page itself.
+  {% endcomment %}
+  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
 {% endif %}
 <!-- end Open Graph protocol -->
