@@ -8,4 +8,11 @@ date: '2026-04-01'
 location: Madison, WI, USA
 ---
 
-<!-- TODO(Michael): your CV lists this entry without a clear host department, so `venue` is generic. Replace with the actual colloquium name. A recording is noted on your CV; add the link here if it is public. -->
+<!-- TODO(Michael): two things about this entry, both from the CV.
+
+     1. It lists no host department, so `venue` above is generic. Replace it with the actual
+        colloquium name.
+     2. The CV marks this talk as having a Recording, but that hyperlink points to
+        youtube.com/watch?v=4xjNcGU0yM8 — which is the NRAO/UVA colloquium from March 2026,
+        already linked on its own entry. It looks like the link was copied down a line. No
+        recording is listed here; add the real URL if one exists. -->
