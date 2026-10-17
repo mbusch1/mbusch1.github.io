@@ -38,9 +38,20 @@ NRAO as a **Jansky Fellow** in 2025.
 <!-- Keep "since 2019." on one line. A line that begins with a number followed by a period is a
      markdown ordered-list marker, which silently swallows the year and breaks the paragraph. -->
 Most of my observing happens on the Green Bank Telescope, the Very Large Array, ALMA,
-and Murriyang (the CSIRO Parkes 64 m telescope) — more than **2700 hours** of awarded
+and Murriyang (the CSIRO Parkes 64 m telescope) — **2,803 hours** of awarded
 time since 2019. The [research page](/research/) covers the individual projects and
 programs, and the papers are on the [publications page](/publications/).
+
+AI and scientific reasoning
+======
+
+From February to August 2026 I worked as a contractor for **Anthropic**, designing and grading
+Ph.D.-level astrophysics problems used to train and evaluate frontier Claude models, and
+diagnosing where model reasoning broke down on multi-step scientific problems. The questions that
+interest me most there are the ones astronomy actually poses: interpreting real, noisy data, where
+the right conclusion depends on judging systematics rather than reaching a single closed-form
+answer. I am interested in how AI systems can reach careful, well-supported conclusions on
+problems like these.
 
 Awards and fellowships
 ======

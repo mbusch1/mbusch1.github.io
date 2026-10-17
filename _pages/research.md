@@ -117,7 +117,7 @@ Observing programs
 
 Most of this work depends on getting large amounts of time on single-dish and interferometric
 telescopes, since diffuse emission is faint and the surveys have to be wide. Since 2019 I have
-been awarded **more than 2700 hours** as PI or co-I across the GBT, the VLA, NOEMA, and
+been awarded **2,803 hours** as PI or co-I across the GBT, the VLA, ALMA, NOEMA, and
 Murriyang. A representative sample:
 
 | Program | Facility | Time |
