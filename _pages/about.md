@@ -29,8 +29,8 @@ magnetic fields, and another at Michigan with Dr. Eric Bell on the stellar halo 
 
 I then went to **The Johns Hopkins University** as an **NSF Graduate Research Fellow**, taking a
 master's with Dr. Adam Riess on a sub-2% Cepheid distance to M31 before completing my Ph.D. in
-Physics in 2022 with Dr. Josh Peek and Dr. Ronald Allen. My thesis, *The Distribution and Physics
-of Dark H<sub>2</sub> in the Outer Galaxy Revealed By OH*, is what set the direction I am still
+Physics in 2022 with Dr. Josh Peek and Dr. Ronald Allen. My thesis, *On the Dark Molecular Gas as
+Revealed by 18 cm OH Emission*, is what set the direction I am still
 following. I held an **NSF Astronomy and Astrophysics Postdoctoral Fellowship** at the
 **University of California, San Diego** with Dr. Karin Sandstrom from 2022 to 2025, and joined
 NRAO as a **Jansky Fellow** in 2025.
@@ -41,17 +41,6 @@ Most of my observing happens on the Green Bank Telescope, the Very Large Array, 
 and Murriyang (the CSIRO Parkes 64 m telescope) — **2,803 hours** of awarded
 time since 2019. The [research page](/research/) covers the individual projects and
 programs, and the papers are on the [publications page](/publications/).
-
-AI and scientific reasoning
-======
-
-From February to August 2026 I worked as a contractor for **Anthropic**, designing and grading
-Ph.D.-level astrophysics problems used to train and evaluate frontier Claude models, and
-diagnosing where model reasoning broke down on multi-step scientific problems. The questions that
-interest me most there are the ones astronomy actually poses: interpreting real, noisy data, where
-the right conclusion depends on judging systematics rather than reaching a single closed-form
-answer. I am interested in how AI systems can reach careful, well-supported conclusions on
-problems like these.
 
 Awards and fellowships
 ======
