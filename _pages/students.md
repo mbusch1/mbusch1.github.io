@@ -18,7 +18,7 @@ grounded in curiosity about the underlying physics.
 If you are a student interested in the interstellar medium, radio spectroscopy, or working with
 data from the GBT, VLA, ALMA, or Murriyang, please email me at
 [mpbusch@nrao.edu](mailto:mpbusch@nrao.edu). Tell me a bit about what you have done and what
-you are curious about — a polished CV is not a prerequisite.
+you are curious about.
 
 <!-- TODO(Michael): if you want to name a specific open project, current funding, or the NRAO
      summer student program deadline, this is the natural place for it. -->
@@ -26,8 +26,8 @@ you are curious about — a polished CV is not a prerequisite.
 Current students
 ======
 
-**Cayden Tirak** — *NRAO REU summer student, Elon University, Summer 2026*
-Project: OH masers in IC 10, using data from the Local Group L-band Survey.
+**Seven Dunn** — *Undergraduate, UC San Diego, 2023–present*
+Project: the CO-dark molecular gas content of high-latitude clouds.
 
 **Justin Mascari** — *Undergraduate, UC San Diego, 2024–present*
 Project: the CO-dark molecular gas content of M33. Co-advised with Dr. Karin Sandstrom.
@@ -35,11 +35,11 @@ Project: the CO-dark molecular gas content of M33. Co-advised with Dr. Karin San
 Past students
 ======
 
+**Cayden Tirak** — *NRAO REU summer student, Elon University, Summer 2026*
+Project: OH masers in IC 10, using data from the Local Group L-band Survey.
+
 **Muntaha Dhami** — *Undergraduate, San Diego State University, Summer 2025*
 Project: an 18 cm GBT OH survey of the Perseus molecular cloud.
-
-**Seven Dunn** — *Undergraduate, UC San Diego, 2023–2025*
-Project: the CO-dark molecular gas content of high-latitude clouds.
 
 **Leo Intriligator** — *Undergraduate in Chemistry, UC Berkeley, 2024*
 Project: upper limits on OH in the outer disk of M33.

@@ -22,7 +22,8 @@ CO-dark molecular gas in the Milky Way
   <img src="/images/OuterGalaxyOHDisk.jpg" alt="Spectra toward the outer Galaxy comparing HI 21 cm, OH 18 cm from the GBT and a 20 m telescope, and CO 3 mm. OH emission appears across the Local Arm, inter-arm gas, Perseus Arm, and outer Galaxy, while CO is detected only in the Local Arm.">
   <figcaption>HI 21 cm, OH 18 cm (GBT and 20 m), and CO 3 mm spectra along one outer-Galaxy
   sightline. OH is detected in the Local Arm, the inter-arm gas, the Perseus Arm, and out to
-  R ~ 10–12 kpc. CO shows up only in the Local Arm.</figcaption>
+  R ~ 10–12 kpc. CO shows up only in the Local Arm.
+  From <a href="/publications/2021-busch-thick-disk">Busch et al. 2021</a>.</figcaption>
 </figure>
 
 My thesis work used the Green Bank Telescope to survey 18 cm OH emission in the outer Galaxy
@@ -38,7 +39,8 @@ well off the Galactic plane, which conventional CO-based inventories miss entire
   <img src="/images/Models.png" alt="Model grid of CO(1-0) integrated intensity versus OH column density for a range of extinctions and densities, with observed sightlines overplotted.">
   <figcaption>CO(1–0) integrated intensity against OH column density, with model tracks for
   different total extinction A<sub>V</sub> and density n<sub>H</sub>. Sightlines with plenty
-  of OH but little or no CO are where the CO-dark gas lies.</figcaption>
+  of OH but little or no CO are where the CO-dark gas lies.
+  From <a href="/publications/2019-busch-perseus-arm">Busch et al. 2019</a>.</figcaption>
 </figure>
 
 Taken together, these say that the molecular reservoir of the Galaxy is both larger and more
@@ -66,8 +68,11 @@ speed of a cooled PAF is what makes the measurement possible at all.
 
 <figure>
   <img src="/images/P1385_1667_flag_cube_channels.gif" alt="Animated channel maps of OH 1667 MHz emission across a high-latitude cloud from the P1385 CryoPAF program, with the mean spectrum below marking each channel's velocity." style="max-width: 560px; display: block; margin: 0 auto;">
-  <figcaption>Channel maps of OH 1667 MHz emission from the P1385 CryoPAF data. The panel
-  underneath shows the mean spectrum, with the current channel's velocity marked.</figcaption>
+  <figcaption>Channel maps of OH 1667 MHz emission from the P1385 CryoPAF data toward the
+  &pi; cloud, a high-latitude cloud at b ≈ −70° about 300 pc away on the edge of the Local
+  Bubble. The panel underneath shows the mean spectrum, with the current channel's velocity
+  marked. CO emission is found only in the southeastern part of the cloud, so OH is tracing a
+  significant amount of CO-dark gas. Busch et al., in prep.</figcaption>
 </figure>
 
 <!-- TODO(Michael): the program and time above come from your CV. Still worth adding: the
@@ -80,14 +85,15 @@ Extragalactic OH and the Local Group
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/M31PointingsGBT.jpg" alt="Dust mass surface density map of M31 with two GBT pointing positions marked by circles in the southern part of the disk.">
   <figcaption>Dust mass surface density in M31. The circles mark the two GBT pointings whose
-  spectra are shown below.</figcaption>
+  spectra are shown below. From <a href="/publications/2024-busch-m31-oh">Busch 2024</a>.</figcaption>
 </figure>
 
 If OH reveals hidden molecular gas in the Milky Way, it should do the same in other galaxies —
-but until recently nobody had detected thermal OH emission outside our own. Using the GBT, we
-reported the **first extragalactic detection of thermal 18 cm OH emission**, toward Andromeda
-(M31), and found it traces an abundant reservoir of CO-faint molecular gas
-([Busch et al. 2024](/publications/2024-busch-m31-oh)).
+but until recently nobody had detected thermal OH emission outside our own. Using the GBT, I
+realized I could carry out a pilot search in nearby galaxies for the same signal I had found in
+the Milky Way. I reported the **first extragalactic detection of thermal 18 cm OH emission**,
+toward Andromeda (M31), and found it traces an abundant reservoir of CO-faint molecular gas
+([Busch 2024](/publications/2024-busch-m31-oh)).
 
 This opens the technique up to the Local Group, where I also work on cold gas in
 low-metallicity dwarf galaxies through the **Local Group L-band Survey** (LGLBS) with the VLA
@@ -98,7 +104,8 @@ fraction larger still.
   <img src="/images/OHinM31.jpg" alt="GBT spectra at two positions in M31. The left position shows HI, OH 1667, 1665, and 1720 MHz, and CO emission near -550 km/s; the right position shows HI but no clear OH.">
   <figcaption>GBT spectra toward the two M31 positions. Left, 00:39:32 +40:26:09: OH 1667
   and 1665 MHz emission lines up in velocity with HI and CO. Right, 00:40:24 +40:28:11: HI is
-  present but OH is not clearly detected.</figcaption>
+  present but OH is not clearly detected. From
+  <a href="/publications/2024-busch-m31-oh">Busch 2024</a>.</figcaption>
 </figure>
 
 The diffuse ISM in absorption
